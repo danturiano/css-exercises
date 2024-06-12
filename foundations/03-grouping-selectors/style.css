@@ -1,0 +1,15 @@
+.first-el,
+.second-el {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-el {
+  background-color: #343a40;
+  color: #f8f9fa;
+  font-weight: bold;
+}
+
+.second-el {
+  background-color: #ffd43b;
+}
